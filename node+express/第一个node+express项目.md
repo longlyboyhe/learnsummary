@@ -1,5 +1,5 @@
 1、点击File，在弹出菜单中点击New Project，打开New Project界面。如下图1所示在New Project界面中选择Node.js Express App，修改Location名称，点击右下角Create。此时会弹出一个正在构建加载界面。当创建完成之后，加载界面消失，创建app成功。
- 
+ ![Image text](../pic/concurrent/aa.jpg)
 图1
 2、App创建成功后整个项目结构如下图2所示。
  
